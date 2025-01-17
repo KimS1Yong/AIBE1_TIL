@@ -2,7 +2,7 @@
 name: TIL
 about: Today I Learned
 title: TIL - YYYY-MM-DD
-labels: ''
+labels: [TIL]
 assignees: ''
 
 ---
