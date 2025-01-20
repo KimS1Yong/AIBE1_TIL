@@ -15,6 +15,6 @@ assignees: ''
 
 ## 느낀점 (Feeling)
 
-## 배우점 (Finding)
+## 배운점 (Finding)
 
 ## 참고 자료
